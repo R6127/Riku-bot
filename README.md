@@ -1,0 +1,2 @@
+# Riku-bot
+Ini bot
